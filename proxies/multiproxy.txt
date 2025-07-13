@@ -1,0 +1,9 @@
+body { font-family: Verdana, Arial, serif; font-size: 12px; line-height: 15px; }
+b { font-family: Verdana, Arial, serif; font-size: 13px; line-height: 16px; }
+<BODY BGCOLOR="#CCCCCC" LINK="#0000CC" VLINK="#0000CC" ALINK="#FF0033" style="padding: 20px;">
+<em>&raquo; <a href="javascript:void(0)" onClick="show_contact_form();">Contact multiproxy.org</a></em>
+<FORM onSubmit="SubmitIt.value='--wait--'; SubmitIt.disabled=true;" id="contact_us" style="display: none;">
+<TR><TD>From (e-mail): <INPUT TYPE="text" NAME="fff" SIZE=50 MAXLENGTH=200></TD></TR>
+Play <a href="https://ichess.com">chess</a> online
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'95e9150a5cb2b860',t:'MTc1MjQxMjg3My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></BODY>
